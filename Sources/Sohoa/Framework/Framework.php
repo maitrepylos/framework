@@ -27,6 +27,11 @@ namespace Sohoa\Framework {
          * @var \Hoa\View\Viewable
          */
         public $view = null;
+        /**
+         * @var \Sohoa\Framework\Session
+         */
+        public $session = null;
+
 
         /**
          *
